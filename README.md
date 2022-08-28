@@ -4,7 +4,7 @@ This Team Generator uses a combination of JS, Node, and various node modules to 
 
 # Screenshot 
 
-<img src="../assets/images/Screenshot.png">
+<img src="./assets/images/Screenshot.png">
 
 # URL to Video for how to run the program
 
